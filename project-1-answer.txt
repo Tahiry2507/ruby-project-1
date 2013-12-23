@@ -1,0 +1,11 @@
+1. Github account created
+2. ruby 2.0.0 installed
+3. textmate and sublime installed
+4. puts "Hello World"
+5. ruby-project-1 created on Github
+6. 
+	a- Source Control. It is the management of multiple revisions of the same data or unit of information, it allows to distribute work between teams but avoid conflicts in source code changes.
+	
+	b- To clone a repository from Github is to copy a project stored in github to our local working directory,then we can make any change to it without affecting the one in github until we push the new changes.
+	
+	c- Github is a web-based hosting service for software development projects. GitHub is the largest online storage space of collaborative works that exists around the world. 
