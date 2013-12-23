@@ -1,6 +1,6 @@
 1. Github account created
 2. ruby 2.0.0 installed
-3. textmate and sublime installed
+3. textmate and sublime text installed
 4. puts "Hello World"
 5. ruby-project-1 created on Github
 6. 
