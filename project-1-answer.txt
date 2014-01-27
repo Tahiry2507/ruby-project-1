@@ -3,9 +3,19 @@
 3. textmate and sublime text installed
 4. puts "Hello World"
 5. ruby-project-1 created on Github
-6. 
-	a- Source Control. It is the management of multiple revisions of the same data or unit of information, it allows to distribute work between teams but avoid conflicts in source code changes.
+6. 	
 	
-	b- To clone a repository from Github is to copy a project stored in github to our local working directory,then we can make any change to it without affecting the one in github until we push the new changes.
+	a- What is source control and how is it used in project development?
+
+Source Control. It is the management of multiple revisions of the same data or unit of information, 
+it allows to distribute work between teams but avoid conflicts in source code changes.
 	
-	c- Github is a web-based hosting service for software development projects. GitHub is the largest online storage space of collaborative works that exists around the world. 
+	b- What does it mean to "clone" a repository from Github?
+
+To clone a repository from Github is to copy a project stored in Github to our local working directory,
+then we can make any change to it without affecting the one in Github until we push the new changes.
+	
+	c- What is Github and why should we use it?
+
+Github is a web-based hosting service for software development projects. 
+GitHub is the largest online storage space of collaborative works that exists around the world. 
